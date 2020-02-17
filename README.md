@@ -1,2 +1,2 @@
 # MATLAB-scripts
-Scripts from MATLAB assignments
+Short scripts from MATLAB assignments
